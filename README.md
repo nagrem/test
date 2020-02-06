@@ -14,6 +14,6 @@ B. Knowledge & Experience Questions
 
 5. untuk bagian design dan bagian funnction berjalan secara bersama2 apabila semua design dan fungsi telah selesai maka tinggal menggabungkan, mnurut saya ini cara yang lebih efektif daripada berjalan sendiri2
 
-6. -
+6. untuk keamanan mungkin dari android studio sendiri menurut saya sudah menyediakan enkripsi yang cukup bagus
 
 7. bersedia
